@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+ }
+
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
+
+h1 {
+  color:#008080;
+  font-family: Arial;
+  font-size: 25pt;
+}
+ 
+canvas{
+  width: 200px;
+  height: 200px;
+  border-style: solid;
+  margin: 10px;
+  border-color: black;
+}
+
+#input{
+   text-align: left;
+   font-size: 12pt;
+   font-family: Arial;
+}
+
